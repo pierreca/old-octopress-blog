@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Unfinished experiments]]></title>
+  <title><![CDATA[Done...ish]]></title>
   <link href="http://pierreca.github.io/atom.xml" rel="self"/>
   <link href="http://pierreca.github.io/"/>
-  <updated>2014-08-12T20:22:22-07:00</updated>
+  <updated>2014-08-17T18:15:10-07:00</updated>
   <id>http://pierreca.github.io/</id>
   <author>
     <name><![CDATA[Pierre Cauchois]]></name>
@@ -85,7 +85,7 @@ Finally if pulleys are still on the block, you may need a special pulley removal
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Maker-friendly Places Around Seattle]]></title>
+    <title type="html"><![CDATA[Interesting Places for Makers Around Seattle]]></title>
     <link href="http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/"/>
     <updated>2014-08-05T22:28:37-07:00</updated>
     <id>http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle</id>
