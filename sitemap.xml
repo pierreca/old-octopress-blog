@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://pierreca.github.io/blog/2014/09/02/a-simple-3d-model-of-the-intel-galileo-board/</loc>
+    <lastmod>2014-09-02T00:00:03-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://pierreca.github.io/blog/2014/08/18/7-bad-reasons-not-to-finish-projects-with-antidotes/</loc>
     <lastmod>2014-08-18T00:10:15-07:00</lastmod>
     <priority>0.8</priority>
@@ -23,28 +29,28 @@
   
   <url>
     <loc>http://pierreca.github.io/blog/archives/</loc>
-    <lastmod>2014-08-25T20:07:51-07:00</lastmod>
+    <lastmod>2014-09-02T00:17:03-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://pierreca.github.io/</loc>
-    <lastmod>2014-08-25T20:07:51-07:00</lastmod>
+    <lastmod>2014-09-02T00:17:03-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://pierreca.github.io/about-me/</loc>
-    <lastmod>2014-08-25T20:07:51-07:00</lastmod>
+    <lastmod>2014-09-02T00:17:03-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://pierreca.github.io/projects/</loc>
-    <lastmod>2014-08-25T20:07:51-07:00</lastmod>
+    <lastmod>2014-09-02T00:17:03-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
