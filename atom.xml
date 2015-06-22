@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<<<<<<< HEAD
   <title><![CDATA[Making and Flying]]></title>
   <link href="http://pierreca.github.io/atom.xml" rel="self"/>
   <link href="http://pierreca.github.io/"/>
-  <updated>2015-06-21T19:03:25-07:00</updated>
-=======
-  <title><![CDATA[Done...ish]]></title>
-  <link href="http://pierreca.github.io/atom.xml" rel="self"/>
-  <link href="http://pierreca.github.io/"/>
-  <updated>2015-02-08T01:13:35-08:00</updated>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
+  <updated>2015-06-21T19:08:42-07:00</updated>
   <id>http://pierreca.github.io/</id>
   <author>
     <name><![CDATA[Pierre Cauchois]]></name>
@@ -25,7 +18,6 @@
     <link href="http://pierreca.github.io/blog/2014/09/02/a-simple-3d-model-of-the-intel-galileo-board/"/>
     <updated>2014-09-02T00:00:03-07:00</updated>
     <id>http://pierreca.github.io/blog/2014/09/02/a-simple-3d-model-of-the-intel-galileo-board</id>
-<<<<<<< HEAD
     <content type="html"><![CDATA[<div class='post'>
 <p>I published <a href="https://github.com/pierreca/Galileo">a very simplistic 3d model of Intels Galileo (v1) board</a> on Github 2 days ago. It was built using OpenScad and the code is available as well as the exported STL file.</p>
 
@@ -35,15 +27,6 @@
 
 <p>Please try this design with various enclosures, use it, and let me know if it works well or if somethings off!</p>
 </div>
-=======
-    <content type="html"><![CDATA[<p>I published <a href="https://github.com/pierreca/Galileo">a very simplistic 3d model of Intel&rsquo;s Galileo (v1) board</a> on Github 2 days ago. It was built using OpenScad and the code is available as well as the exported STL file.</p>
-
-<p><img src="https://raw.githubusercontent.com/pierreca/Galileo/master/Images/galileo_v1_3d.PNG" alt="Galileo 3D model image" /></p>
-
-<p>I rely on 3D models a lot during the design of any project because it&rsquo;s a way for me to cut on prototyping costs and times. One thing that often leaves me wanting more with a lot of projects I see from makers is the fact that it stays on a breadboard. There&rsquo;s rarely any PCB design, and even more rarely enclosure or industrial design that would make the thing sturdy and reliable enough to function on something else than a desk&hellip; I guess I&rsquo;ll write about that and maybe some techniques that I have found useful later&hellip;</p>
-
-<p>Please try this design with various enclosures, use it, and let me know if it works well or if something&rsquo;s off!</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 ]]></content>
   </entry>
   
@@ -52,7 +35,6 @@
     <link href="http://pierreca.github.io/blog/2014/08/18/7-bad-reasons-not-to-finish-projects-with-antidotes/"/>
     <updated>2014-08-18T00:10:15-07:00</updated>
     <id>http://pierreca.github.io/blog/2014/08/18/7-bad-reasons-not-to-finish-projects-with-antidotes</id>
-<<<<<<< HEAD
     <content type="html"><![CDATA[<div class='post'>
 <p>Years of tinkering with electronics and building apps on week-ends and evenings, and recently I have found myself thinking that I never really finish anything. It has been bugging me to a point where I felt really bad about it The weird thing is, its not at all the same at work. Im focused and I always have a clear idea of whats done, whats expected and I know when and how to deliver things on time and meeting my team QA standards.<br>
 I also realized I know of a lot of people feeling the same with their own projects, so lets share: heres whats going on in my maker head, and how I snap out of it and get things done, slowly, but surely. Maybe youll recognize some of the symptoms, hopefully youll find something useful here.</p>
@@ -98,58 +80,11 @@ I also realized I know of a lot of people feeling the same with their own projec
 <p>Basics are done :) This project does stuff, but as it grows I keep adding features, so its actually never in a shippable state and now that I have started these new features I need to finish them.</p>
 
 <p><em>Again, lack of experience, I find myself making that mistake less and less. Working with github and feature branches as if I were part of a team help me separate must-have items from nice-to-have. Adopting the MVP mindset from the startup culture helps a lot. Ship early, ship often, even if youre your only user.</em></p>
-=======
-    <content type="html"><![CDATA[<p>Years of tinkering with electronics and building apps on week-ends and evenings, and recently I have found myself thinking that I never really finish anything. It has been bugging me to a point where I felt really bad about it&hellip; The weird thing is, it&rsquo;s not at all the same at work. I&rsquo;m focused and I always have a clear idea of what&rsquo;s done, what&rsquo;s expected and I know when and how to deliver things on time and meeting my team QA standards.<br/>
-I also realized I know of a lot of people feeling the same with their own projects, so let&rsquo;s share: here&rsquo;s what&rsquo;s going on in my maker head, and how I &ldquo;snap out of it&rdquo; and get things done, slowly, but surely. Maybe you&rsquo;ll recognize some of the symptoms, hopefully you&rsquo;ll find something useful here.</p>
-
-<h3>1. The 99 projects syndrome</h3>
-
-<p>If only I had one single project. I have 99 projects and every night as I go to sleep I think about yet another one, that I will probably start soon because I&rsquo;m so thrilled by that brilliant new idea&hellip; and I&rsquo;ll leave the rest for later. I simply start more projects than I can finish.</p>
-
-<p><em>I now give myself a one week &ldquo;cool down period&rdquo; not only to think about the project but also to understand if I really want do it fully, or if it&rsquo;s just a fad. Just in case, I add it to <a href="http://pierreca.github.io/projects">my bucket list</a> and when I finish something I look into this list to decide what&rsquo;s next.</em></p>
-
-<h3>2. &ldquo;I already know how to finish this&rdquo;</h3>
-
-<p>That project was fun because it was an enigma to solve, a mind game. Now that I know how to solve it, it has lost its interest. Compared to a new project, it feels like I&rsquo;ll learn less just finishing the first one.</p>
-
-<p><em>That&rsquo;s lack of experience speaking. The more I grow, the less I feel this, because I know that until something&rsquo;s shipped, no-one knows what problems will happen during &ldquo;real-life&rdquo; implementation.</em></p>
-
-<h3>3. &ldquo;It&rsquo;s someone else&rsquo;s fault if I&rsquo;m blocked&rdquo;</h3>
-
-<p>I had found this really cool way of solving a particular issue, using that open-source project. Unfortunately it has bugs, that prevent me from moving forward. Their fault, not mine, me thinks.</p>
-
-<p><em>Little voice in my head: It&rsquo;s open-source, moron. fix it yourself! 9 times out of 10 it&rsquo;s easier than I think.</em></p>
-
-<h3>4. &ldquo;It takes too much time!&rdquo;</h3>
-
-<p>So&hellip; I thought it was going to be easy, and it turns out it&rsquo;s not. That particular component is going to take me days to finish, I&rsquo;m not seeing the end of it. The sheer amount of work left scares me.</p>
-
-<p><em>OK, it&rsquo;s bad planning. Why did I think otherwise at the beginning? What did I learn since then? Feeling good about this maker-life lesson, then committing to not making this mistake again gives me motivation to push forward.</em></p>
-
-<h3>5. &ldquo;I bought that thing but I have no idea what to do with it&rdquo;</h3>
-
-<p>Shiny new toy, ordered too fast&hellip; I even bought the accessories and paid for the 2-day delivery option! When it was delivered I feverishly unboxed it. Then followed the &ldquo;getting started&rdquo; instructions. Then what? errr&hellip; I&rsquo;m not sure. I could use it to restart this other project but it would likely take longer than finish it with the old kit. OK, I&rsquo;m just going to put that new toy on a shelf for when I need it.</p>
-
-<p><em>I now add it to the bucket list instead of buying it. Then I think about what I could finish quickly to free some time and buy that shiny new toy.</em></p>
-
-<h3>6. &ldquo;It&rsquo;s a working prototype but it&rsquo;s ugly and I don&rsquo;t know how to make it pretty&rdquo;</h3>
-
-<p>It&rsquo;s working! it&rsquo;s alive! but I don&rsquo;t want to call it done because it&rsquo;s ugly. It&rsquo;s still on a breadboard, I need to find a way to do the enclosure too. Or maybe I spent hours designing an enclosure and $$ laser cutting it just to end up with an ugly impractical thing. Now I&rsquo;m depressed and I don&rsquo;t have the energy to move to v2. And I don&rsquo;t want to show it like that.</p>
-
-<p><em>Whatever I&rsquo;ll show it anyway. Here&rsquo;s my ugly <a href="http://github.com/pierreca/LightClock">LightClock</a>. It&rsquo;s not pretty but it&rsquo;s v1, it&rsquo;s better than nothing at all. v2 is coming anyway :)</em></p>
-
-<h3>7. &ldquo;I keep adding features, it&rsquo;s never stable!&rdquo;</h3>
-
-<p>Basics are done :) This project does stuff, but as it grows I keep adding features, so it&rsquo;s actually never in a shippable state and now that I have started these new features I need to finish them.</p>
-
-<p><em>Again, lack of experience, I find myself making that mistake less and less. Working with github and feature branches as if I were part of a team help me separate must-have items from nice-to-have. Adopting the MVP mindset from the startup culture helps a lot. Ship early, ship often, even if you&rsquo;re your only user.</em></p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <h2>7 additional tips that help me (hint: combine them!)</h2>
 
 <h3>1. Build some social pressure</h3>
 
-<<<<<<< HEAD
 <p>Get one or more real users excited about it: friends, family, colleagues, followers Tell them about what youd like to build, it will likely help you find out if its really interesting, and then keep them posted about it! As soon as you can, add it to your github account, or publish it on <a href="http://www.hackster.io">hackster.io</a> or <a href="http://www.hackaday.io">hackaday.io</a>.</p>
 
 <h3>2. Start small</h3>
@@ -167,44 +102,17 @@ I also realized I know of a lot of people feeling the same with their own projec
 <h3>5. Set a deadline</h3>
 
 <p>Its certainly the easiest/dumbest advice of the list, cause really, everybody knows that setting deadlines help Surprisingly though, not many people do it for personal projects. Combined with social pressure, its a huge motivation nonetheless. Think about how you would like to reveal your project to others: find the perfect time for that, and go for it. Getting that Private Pilot License before I go back to see the friend who offered me my first ride in a small airplane sure was important.</p>
-=======
-<p>Get one or more real users excited about it: friends, family, colleagues, followers&hellip; Tell them about what you&rsquo;d like to build, it will likely help you find out if it&rsquo;s really interesting, and then keep them posted about it! As soon as you can, add it to your github account, or publish it on <a href="http://www.hackster.io">hackster.io</a> or <a href="http://www.hackaday.io">hackaday.io</a>.</p>
-
-<h3>2. Start small</h3>
-
-<p>An optimal solution to a problem is a combination of optimal solutions for subproblems. That&rsquo;s one thing of an old dynamic programming course that stuck. Split your project in subproblems, and start solving one of them. Then ship it and move to the next one. Split it into as many smaller problems as you can. And ship every subproblem solution.</p>
-
-<h3>3. Don&rsquo;t start something new until you shipped the previous thing</h3>
-
-<p>Sure that new idea&rsquo;s cool, but you ought to finish the one you&rsquo;re working on first. The motivation for the next project will help you finish the current one. Just make sure your idea doesn&rsquo;t go to waste, write it somewhere. That&rsquo;s why I created <a href="http://pierreca.github.io/projects/">this page</a>.</p>
-
-<h3>4. Find a coach/mentor/instructor/teacher</h3>
-
-<p>That project may not be a team project, but it doesn&rsquo;t mean you can&rsquo;t get help from others. Especially someone with more experience. I bet not many private pilot students would get to the checkride if it wasn&rsquo;t for that spark of motivation that a good instructor can give you when you botch a shortfield landing for the tenth time. More often that not people will be honored to be asked to mentor a project, even a silly one :)</p>
-
-<h3>5. Set a deadline</h3>
-
-<p>It&rsquo;s certainly the easiest/dumbest advice of the list, &lsquo;cause really, everybody knows that setting deadlines help&hellip; Surprisingly though, not many people do it for personal projects. Combined with social pressure, it&rsquo;s a huge motivation nonetheless. Think about how you would like to reveal your project to others: find the perfect time for that, and go for it. Getting that Private Pilot License before I go back to see the friend who offered me my first ride in a small airplane sure was important.</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <h3>6. Maintain bucket lists</h3>
 
 <p>Lists are easy to keep updated. They are great to remind you not only what you have coming next, but also what you have achieved already. That <a href="http://pierreca.github.io/projects/">projects page</a> is a portfolio, an agenda, and a tool to help me apply tips #1, #3 and #5.</p>
 
-<<<<<<< HEAD
 <h3>7. Always remember why youre doing it</h3>
 
 <p>Whats the motivation? Why am I doing this? Because its fun is not an acceptable answer anymore, there is always a deeper motive anyway: before I set on doing something, I commit to finding the real purpose for that project first.</p>
 
 <p>So whats going to work best for you?</p>
 </div>
-=======
-<h3>7. Always remember why you&rsquo;re doing it</h3>
-
-<p>What&rsquo;s the motivation? Why am I doing this? &ldquo;Because it&rsquo;s fun&rdquo; is not an acceptable answer anymore, there is always a deeper motive anyway: before I set on doing something, I commit to finding the real purpose for that project first.</p>
-
-<p>So what&rsquo;s going to work best for you?</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 ]]></content>
   </entry>
   
@@ -213,21 +121,14 @@ I also realized I know of a lot of people feeling the same with their own projec
     <link href="http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/"/>
     <updated>2014-08-12T19:57:36-07:00</updated>
     <id>http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks</id>
-<<<<<<< HEAD
     <content type="html"><![CDATA[<div class='post'>
 <p>Ever since I had seen coffee table on the british TV show called Top Gear (made from a Jaguar V12 engine) I wanted to have an engine-based coffee table. A quick search on the Web showed that anyone can buy that for just over a thousand bucks but I also found a handful of results from people who had done that before and were showing it on some forums: so I set out to build my own.</p>
 
 <p>Heres what I discovered along the way. Hopefully itll help you build your own!</p>
-=======
-    <content type="html"><![CDATA[<p>Ever since I had seen coffee table on the british TV show called Top Gear (made from a Jaguar V12 engine) I wanted to have an engine-based coffee table. A quick search on the Web showed that anyone can buy that for just over a thousand bucks but I also found a handful of results from people who had done that before and were showing it on some forums: so I set out to build my own.</p>
-
-<p>Here&rsquo;s what I discovered along the way. Hopefully it&rsquo;ll help you build your own!</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <h2>Picking the engine</h2>
 
 <p>Most car engine are not that big. Even V6 blocks can be pretty small (barely over a cubic foot). So most tables made out of a single engine block are small, or at least smaller than I wanted: these table are 3 feet long, 4 max.
-<<<<<<< HEAD
 6 cylinders inline engines are about 2 feet long, but very narrow. So when you set out to buy one, make sure to measure it and then factor in how youre going to rest or affix the table itself on it: an engine block is not necessarily flat.</p>
 
 <p>If you search long enough for it you might find some service manual or schematics of the engine you want on the internet. It can help, even if it&#x2019;s in German: the technical drawings and dimensions will help you design the object before you actually buy the part.</p>
@@ -252,56 +153,21 @@ I also realized I know of a lot of people feeling the same with their own projec
 Finally if pulleys are still on the block, you may need a special pulley removal tool. Again, a mechanic can help you with that (these are not easy to find and can sometimes be ordered only by dealerships).</p>
 
 <p><img src="https://raw.github.com/pierreca/pierreca.github.io/master/images/engine/engine_crankshaft.jpg" alt="Crankshaft"></p>
-=======
-6 cylinders inline engines are about 2 feet long, but very narrow. So when you set out to buy one, make sure to measure it and then factor in how you&rsquo;re going to rest or affix the table itself on it: an engine block is not necessarily flat.</p>
-
-<p>If you search long enough for it you might find some service manual or schematics of the engine you want on the internet. It can help, even if it’s in German: the technical drawings and dimensions will help you design the object before you actually buy the part.</p>
-
-<p>While in the process of choosing and engine, I tried to pick one that looked good, but also learned about its history. I ended up looking specifically for 6 cylinders inline from BMW mainly because of the form factor (long enough and perfectly flat) but also because I like the brand, and because it’s an engine which performances were acclaimed all these years. The current generation (M54) is used in most powerful BMWs, and its sport version (S52/S54) powers the legendary M series. I ended getting really lucky on Craigslist, and found a pair of identical M52: it was produced at the end of the 90s, which is when BMW moved from cast iron blocks to aluminum, the latter being much lighter&hellip; which is important, because an engine is heavy. Depending on how many parts are still in it (camshaft, pistons&hellip;) it can be several hundred pounds. You will need a friend or two to help you carry it, and presumably a very sturdy dolly.</p>
-
-<h2>Buying the engine</h2>
-
-<p>I strongly suggest you go and see it before you buy it. If possible, turn the crankshaft to see if the pistons move freely, if still in there. Make sure it&rsquo;s in a good enough shape that you can take it apart fully (you probably only need the engine block, so maybe you can get the seller to give you a better price for only that part, and let him sell the rest separately&hellip; or you can do it yourself! That way you can keep some of the parts for other projects. Some people also use pistons to make feet for the table&hellip;</p>
-
-<p>On the day you take it home, bring friends to lift it in and out of the trunk, and bring tarp or cardboard to protect your car. An engine block is greasy and can leak fluids even if it&rsquo;s been in a garage for years. Here&rsquo;s what my engine blocks looked like when I brought them home (we had cleaned them before putting them in the trunk with a water jet&hellip;)</p>
-
-<p><img src="https://raw.github.com/pierreca/pierreca.github.io/master/images/engine/engines_dirty.jpg" alt="Dirty Engine Blocks" /></p>
-
-<h2>Tearing the engine apart</h2>
-
-<p>An engine is hard to dismantle. You will need space, and some tools. Don’t try to use cheap or tools that &ldquo;almost fit&rdquo; the bolt but don&rsquo;t. They will break and you will hurt yourself, which wouldn’t even be as bad as putting a dent on the block or rounding a bolt.</p>
-
-<p>Also know that the place where you will work on this project will be dirty. Engine grease, oil, chemicals… you will need gloves, detergent, and you will leave smudges on everything you touch while working on it.</p>
-
-<p>The hardest part for me was the Crankshaft bolt: it&rsquo;s very tightly screwed, a few hundreds PSIs. You&rsquo;ll need either a big lever and a way to &ldquo;lock&rdquo; the crankshaft in place, or an impact driver: a pneumatic one, electric impact drivers are just not strong enough. Easiest way to solve the problem: find a garage with a friendly mechanic who could loosen it for you, they have the tools, it&rsquo;ll take them half a minute. Also, you’ll have to find out beforehand if it is reverse-threaded or not… just to make sure you&rsquo;re unscrewing the bolt and not tightening it!
-Finally if pulleys are still on the block, you may need a special pulley removal tool. Again, a mechanic can help you with that (these are not easy to find and can sometimes be ordered only by dealerships).</p>
-
-<p><img src="https://raw.github.com/pierreca/pierreca.github.io/master/images/engine/engine_crankshaft.jpg" alt="Crankshaft" /></p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <p>All these questions make a case for why you should look for the engine service manual and schematics :)</p>
 
 <h2>Cleaning, sanding and polishing</h2>
 
-<<<<<<< HEAD
 <p>An engine is dirty. You&#x2019;ll need it cleaned. If you try to clean it yourself there will be water, chemicals and engine grease everywhere so I suggest you avoid doing that that in the street or your lawn. If you do that in your driveway, clean it very thoroughly after if you don&#x2019;t want to skid the next time you drive on it. You will need a high pressure jet, an industrial degreaser and a lot of time Since I live in an apartment I ended up finding a garage that had a hot jets parts cleaner. It will cost you a few bucks but will save you a lot of time and trouble.</p>
 
 <p><img src="https://raw.github.com/pierreca/pierreca.github.io/master/images/engine/engine_cleaned.jpg" alt="After Cleaning"></p>
 
 <p>As you can see cleaning will not be enough! you&#x2019;ll need to do some sanding and polishing too and maybe remove rust&#x2026; a chemical rust remover will do the big part of the job, sanding should do the rest. You will need to do most of it manually or with a small rotary tool like a Dremel. Give it half a day, prepare to make some noise, and it will generate a lot of metal dust so wear a breathing mask during that operation and protective goggles Trust me on this one, I didn&#x2019;t and whatever came out of my nose in the next days was black and did not look healthy&#x2026;</p>
-=======
-<p>An engine is dirty. You’ll need it cleaned. If you try to clean it yourself there will be water, chemicals and engine grease everywhere so I suggest you avoid doing that that in the street or your lawn. If you do that in your driveway, clean it very thoroughly after if you don’t want to skid the next time you drive on it. You will need a high pressure jet, an industrial degreaser and a lot of time&hellip; Since I live in an apartment I ended up finding a garage that had a hot jets parts cleaner. It will cost you a few bucks but will save you a lot of time and trouble.</p>
-
-<p><img src="https://raw.github.com/pierreca/pierreca.github.io/master/images/engine/engine_cleaned.jpg" alt="After Cleaning" /></p>
-
-<p>As you can see cleaning will not be enough! you’ll need to do some sanding and polishing too and maybe remove rust… a chemical rust remover will do the big part of the job, sanding should do the rest. You will need to do most of it manually or with a small rotary tool like a Dremel. Give it half a day, prepare to make some noise, and it will generate a lot of metal dust so wear a breathing mask during that operation and protective goggles&hellip; Trust me on this one, I didn’t and whatever came out of my nose in the next days was black and did not look healthy…</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <p>When sanding, start with the inside (cylinders) and finish with the outside and the top. Clean and vacuum the dust regularly. Sanding is a 3 steps process: first start with rough grain sand paper to make the surface even, then medium grain to remove the scratches, then fine grain to make it shiny and clean.</p>
 
 <h2>Assembling the table</h2>
 
-<<<<<<< HEAD
 <p>That&#x2019;s where you can get creative (or not&#x2026; I just rested a glass sheet on top of the engines with some transparent vinyl spacers). Make sure the table doesn&#x2019;t tip or break when something heavy sits on top of it. Use tempered (also called safety) glass. Normal glass will break. Also, you should know that the weakest point of a tempered glass sheet is bezel, so be extra careful when moving it or storing it vertically.</p>
 
 <p>Heres what the final result looks like:</p>
@@ -311,17 +177,6 @@ Finally if pulleys are still on the block, you may need a special pulley removal
 <h2>Time and Cost</h2>
 
 <p>This will vary a lot depending on the parts you pick. Heres what it was for me:</p>
-=======
-<p>That’s where you can get creative (or not… I just rested a glass sheet on top of the engines with some transparent vinyl spacers). Make sure the table doesn’t tip or break when something heavy sits on top of it. Use tempered (also called safety) glass. Normal glass will break. Also, you should know that the weakest point of a tempered glass sheet is bezel, so be extra careful when moving it or storing it vertically.</p>
-
-<p>Here&rsquo;s what the final result looks like:</p>
-
-<p><img src="https://raw.github.com/pierreca/pierreca.github.io/master/images/engine/table_final.jpg" alt="Table: Final Result" /></p>
-
-<h2>Time and Cost</h2>
-
-<p>This will vary a lot depending on the parts you pick. Here&rsquo;s what it was for me:</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <ul>
 <li>2 engine blocks: $300</li>
@@ -330,10 +185,7 @@ Finally if pulleys are still on the block, you may need a special pulley removal
 <li>Time: ~20-30 hours</li>
 </ul>
 
-<<<<<<< HEAD
 </div>
-=======
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 ]]></content>
   </entry>
   
@@ -342,18 +194,13 @@ Finally if pulleys are still on the block, you may need a special pulley removal
     <link href="http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/"/>
     <updated>2014-08-05T22:28:37-07:00</updated>
     <id>http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle</id>
-<<<<<<< HEAD
     <content type="html"><![CDATA[<div class='post'>
 <p>18 months ago, I moved from Paris, France to Seattle, WA. Since then Ive been working on a few personal projects that have taken me around the Seattle area in search for maker resources and shops Heres what I found so far</p>
-=======
-    <content type="html"><![CDATA[<p>18 months ago, I moved from Paris, France to Seattle, WA. Since then I&rsquo;ve been working on a few personal projects that have taken me around the Seattle area in search for maker resources and shops&hellip; Here&rsquo;s what I found so far&hellip;</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <h2>Electronics parts</h2>
 
 <h3>Vetco Electronics</h3>
 
-<<<<<<< HEAD
 <p><a href="http://www.vetco.net">http://www.vetco.net</a><br>
 12718 Northup Way, Suite 100, Bellevue, WA 98005
 (425) 641-7275</p>
@@ -367,37 +214,17 @@ Finally if pulleys are still on the block, you may need a special pulley removal
 (425) 525-0200</p>
 
 <p>Frys Electronics is like a big department store for anything powered with electricity: from washing machines, to computers, to TV sets, gaming consoles, laptops, PC parts, electronics parts and tools, arduinos in short, everything, at a very decent price. This being said, like any chain/department store, dont expect any kind of service. youre on your own until you hit a pushy sales guy who barely knows what hes talking about</p>
-=======
-<p><a href="http://www.vetco.net">http://www.vetco.net</a><br/>
-12718 Northup Way, Suite 100, Bellevue, WA 98005
-(425) 641-7275</p>
-
-<p>Vetco is located in Bellevue, WA, and it&rsquo;s a shop with 2 floors of electronics components from the 60s to the most recent ones. They carry Arduino and Arduino-related boards and all the individual components you can dream about. They also have scopes, soldering irons, and though the price is high, it&rsquo;s the kind of shop you go to just to reward its very existence.</p>
-
-<h3>Fry&rsquo;s</h3>
-
-<p><a href="http://www.frys.com">http://www.frys.com</a> <br/>
-800 Garden Ave N, Renton, WA 98057<br/>
-(425) 525-0200</p>
-
-<p>Fry&rsquo;s Electronics is like a big department store for anything powered with electricity: from washing machines, to computers, to TV sets, gaming consoles, laptops, PC parts, electronics parts and tools, arduinos&hellip; in short, everything, at a very decent price. This being said, like any chain/department store, don&rsquo;t expect any kind of service. you&rsquo;re on your own until you hit a pushy sales guy who barely knows what he&rsquo;s talking about&hellip;</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <h3>Radioshack</h3>
 
 <p><em>Radioshack has many stores all over town</em></p>
 
-<<<<<<< HEAD
 <p>Radioshack is trying to become relevant again in the maker scene: hidden behind cellphone accessories aisles, youll find basic tools, components and Arduinos. When you have nowhere else to go and crave for an evening or week end project</p>
-=======
-<p>Radioshack is trying to become relevant again in the maker scene: hidden behind cellphone accessories aisles, you&rsquo;ll find basic tools, components and Arduinos. When you have nowhere else to go and crave for an evening or week end project&hellip;</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <h2>Hackerspaces</h2>
 
 <h3>Metrix Create Space</h3>
 
-<<<<<<< HEAD
 <p><a href="http://www.metrixcreatespace.com">http://www.metrixcreatespace.com</a><br>
 623 Broadway E, Seattle, WA 98102<br>
 (206) 357-9406</p>
@@ -421,55 +248,21 @@ Finally if pulleys are still on the block, you may need a special pulley removal
 (206) 322-1058</p>
 
 <p>Ada&#x2019;s bookstore is awesome: its grown from a small bookstore into a full fledged coffee shop, bookstore, electronics shop, and coworking space.</p>
-=======
-<p><a href="http://www.metrixcreatespace.com">http://www.metrixcreatespace.com</a><br/>
-623 Broadway E, Seattle, WA 98102<br/>
-(206) 357-9406</p>
-
-<p>Metrix Creative Space is small and awesome. They have an vending machine full of parts that is really cool, multiple 3D printers, CNC, laser cutter, a soldering room, tons of tools.. and even a protolaser LPKF machine that is really impressive for fast prototyping. They have workshops on every possible maker-related topics every week.. It&rsquo;s a great place to hang out, and the people are friendly. Plus you get to meet the guys from OpenBeam and the creator of the Kossel Pro!</p>
-
-<h3>Makerhaus</h3>
-
-<p><a href="http://www.makerhaus.com">http://www.makerhaus.com</a><br/>
-122 NW 36th St, Seattle, WA 98107<br/>
-(206) 457-8968</p>
-
-<p>I have been to Makerhaus in Fremont only once: it&rsquo;s a fairly recent and large hackerspace, with tons of equipment. The membership prices seem crazy expensive to me but I guess it&rsquo;s the price to pay for top notch wood and metal shops.</p>
-
-<h2>Books</h2>
-
-<h3>Ada&rsquo;s Bookstore</h3>
-
-<p><a href="http://seattletechnicalbooks.com">http://seattletechnicalbooks.com</a><br/>
-425 15th Ave East, Seattle, WA 98112 <br/>
-(206) 322-1058</p>
-
-<p>Ada’s bookstore is awesome: it&rsquo;s grown from a small bookstore into a full fledged coffee shop, bookstore, electronics shop, and coworking space.</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <p>They have delicious homebrew coffee and pastries, plenty of magazines and books on every imaginable nerdy topic, from programming books to science to science fiction and a quite a few electronics kits for an impromptu week-end project.</p>
 
 <h3>Elliott Bay Bookstore</h3>
 
-<<<<<<< HEAD
 <p><a href="http://www.elliottbaybook.com">http://www.elliottbaybook.com</a><br>
 1521 10th Avenue, Seattle WA 98122<br>
 (206) 624-6600</p>
 
 <p>Its a beautiful bookstore: large, but not too much, in an old building, and it just feels like it belongs here. Its big enough that youll find a good selection of books no matter what youre looking for, including technical books.</p>
-=======
-<p><a href="http://www.elliottbaybook.com">http://www.elliottbaybook.com</a><br/>
-1521 10th Avenue, Seattle WA 98122<br/>
-(206) 624-6600</p>
-
-<p>It&rsquo;s a beautiful bookstore: large, but not too much, in an old building, and it just feels like it belongs here. It&rsquo;s big enough that you&rsquo;ll find a good selection of books no matter what you&rsquo;re looking for, including technical books.</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <h2>Hardware</h2>
 
 <h3>Pacific Supply</h3>
 
-<<<<<<< HEAD
 <p><a href="http://www.pacsupply.com">http://www.pacsupply.com</a><br>
 1417 12th Avenue, Seattle, WA 98122<br>
 (206) 322-1717</p>
@@ -485,23 +278,6 @@ Finally if pulleys are still on the block, you may need a special pulley removal
 <p>Hardwicks was featured in Popular Mechanics for a good reason: its a good old hardware shop that looks like Grandpas attic, except, cleaner. Its in the middle of University district and has rarities at a price.</p>
 
 <h3>Lowes, Home Depot, Harbor Freight, Sears</h3>
-=======
-<p><a href="http://www.pacsupply.com">http://www.pacsupply.com</a><br/>
-1417 12th Avenue, Seattle, WA 98122<br/>
-(206) 322-1717</p>
-
-<p>Pacific Supply is in the center of Capitol Hill. There&rsquo;s nothing special to it, besides its location and cool old building. Useful if you live on the Hill and don&rsquo;t want to take a car just to buy a lightbulb or a piece of rope&hellip;</p>
-
-<h3>Hardwick &amp; Sons</h3>
-
-<p><a href="http://www.ehardwicks.com">http://www.ehardwicks.com</a><br/>
-4214 Roosevelt Way NE, Seattle, WA 98105<br/>
-(206) 632-1203</p>
-
-<p>Hardwick&rsquo;s was featured in Popular Mechanics for a good reason: it&rsquo;s a good old hardware shop that looks like Grandpa&rsquo;s attic, except, cleaner. It&rsquo;s in the middle of University district and has rarities&hellip; at a price.</p>
-
-<h3>Lowe&rsquo;s, Home Depot, Harbor Freight, Sears</h3>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <p><em>All of these have many locations in the Seattle area and are easy to find</em></p>
 
@@ -513,65 +289,37 @@ Finally if pulleys are still on the block, you may need a special pulley removal
 
 <h3>Sunset Glass</h3>
 
-<<<<<<< HEAD
 <p><a href="http://sunsetglass.com">http://sunsetglass.com</a><br>
 11660 N.E. 8th Bellevue, Washington 98005<br>
 (425) 454-5087</p>
 
 <p>Home Depot and Lowe&#x2019;s cut small pieces of glass but they have the advantage of also offering different kinds of plastic, acrylics and Lexan. However if you have a particular need for a large sheet of glass, I found Sunset Glass. It&#x2019;s in Bellevue, in front of Eastside rentals. They have every kind of glass you might dream of, with different thicknesses, they are very nice, and the prices seemed fair. They can also recommend you to other places to have your glass customized if necessary (etching, etc).
 There&#x2019;s also Perkins on Broadway in Capitol Hill, Seattle, but I haven&#x2019;t been there.</p>
-=======
-<p><a href="http://sunsetglass.com">http://sunsetglass.com</a><br/>
-11660 N.E. 8th Bellevue, Washington 98005<br/>
-(425) 454-5087</p>
-
-<p>Home Depot and Lowe’s cut small pieces of glass but they have the advantage of also offering different kinds of plastic, acrylics and Lexan. However if you have a particular need for a large sheet of glass, I found Sunset Glass. It’s in Bellevue, in front of Eastside rentals. They have every kind of glass you might dream of, with different thicknesses, they are very nice, and the prices seemed fair. They can also recommend you to other places to have your glass customized if necessary (etching, etc).
-There’s also Perkins on Broadway in Capitol Hill, Seattle, but I haven’t been there.</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <h2>Plastics, Acrylic, Lexan</h2>
 
 <h3>Tap Plastics</h3>
 
-<<<<<<< HEAD
 <p><a href="http://www.tapplastics.com">http://www.tapplastics.com</a>  <br>
 12021 NE Northup Way, Bellevue, WA 98005<br>
 (425) 502-7225</p>
 
 <p>Ive only been to the Bellevue location but they also have shops in South Lake Union and Lynnwood apparently. I buy acrylic sheets for custom enclosures and laser-cut them at Metrix Create Space. The best shop Ive found is Tap Plastics, in Bellevue, WA.</p>
-=======
-<p><a href="http://www.tapplastics.com">http://www.tapplastics.com</a>  <br/>
-12021 NE Northup Way, Bellevue, WA 98005<br/>
-(425) 502-7225</p>
-
-<p>I&rsquo;ve only been to the Bellevue location but they also have shops in South Lake Union and Lynnwood apparently. I buy acrylic sheets for custom enclosures and laser-cut them at Metrix Create Space. The best shop I&rsquo;ve found is Tap Plastics, in Bellevue, WA.</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 
 <h2>Mechanical parts</h2>
 
 <h3>Warden Fluid Dynamics</h3>
 
-<<<<<<< HEAD
 <p><a href="http://www.wfdonline.com">http://www.wfdonline.com</a><br>
 1515 NW Ballard Way, Seattle, WA 98107<br>
-=======
-<p><a href="http://www.wfdonline.com">http://www.wfdonline.com</a><br/>
-1515 NW Ballard Way, Seattle, WA 98107<br/>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 (206) 633-0382</p>
 
 <p>If you like 80/20, They have 2 distributors in the Seattle area and I have been in touch with this one. They have been really helpful and quick to reply.</p>
 
-<<<<<<< HEAD
 <p>If youre looking for the same kind of aluminium profiles for smaller projects, check out the OpenBeam aisle at Metrix Create Space.</p>
 
 <p>For anything mechanical Ive also been told about a company called Grainger, never been there though.</p>
 </div>
-=======
-<p>If you&rsquo;re looking for the same kind of aluminium profiles for smaller projects, check out the OpenBeam aisle at Metrix Create Space.</p>
-
-<p>For anything mechanical I&rsquo;ve also been told about a company called Grainger, never been there though.</p>
->>>>>>> 440aa0a8271d5dfc0f2e983881a40b2986c9fcbb
 ]]></content>
   </entry>
   
