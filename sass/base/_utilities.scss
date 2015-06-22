@@ -1,11 +1,15 @@
 @mixin mask-image($img, $repeat: no-repeat){
   @include experimental(mask-image, image-url($img), -webkit, -moz, -o, -ms);
   @include experimental(mask-repeat, $repeat, -webkit, -moz, -o, -ms);
+<<<<<<< HEAD
   @include experimental(mask-size, 100% 100%, -webkit, -moz, -o, -ms);
+=======
+>>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb
   width: image-width($img);
   height: image-height($img);
 }
 
+<<<<<<< HEAD
 @mixin mask-image-retina($img, $width, $height){
   @media (min--moz-device-pixel-ratio: 1.3),
          (-o-min-device-pixel-ratio: 2.6/2),
@@ -16,6 +20,8 @@
     height: $height;
   }
 }
+=======
+>>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb
 @mixin shadow-box($border: #fff .5em solid, $shadow: rgba(#000, .15) 0 1px 4px, $border-radius: .3em) {
   @include border-radius($border-radius);
   @include box-shadow($shadow);

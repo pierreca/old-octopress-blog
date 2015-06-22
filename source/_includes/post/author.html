@@ -5,6 +5,7 @@
 {% else %}
   {% assign author = site.author %}
 {% endif %}
+<<<<<<< HEAD
 {% if post.googleplus_user %}
   {% assign googleplus_user = post.googleplus_user | downcase %}
 {% elsif page.googleplus_user %}
@@ -21,3 +22,6 @@
   {% endif %}
   </span></span>
 {% endif %}
+=======
+{% if author %}<span class="byline author vcard">Posted by <span class="fn">{{ author }}</span></span>{% endif %}
+>>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb

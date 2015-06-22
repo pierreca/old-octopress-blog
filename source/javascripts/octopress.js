@@ -1,10 +1,18 @@
 function getNav() {
+<<<<<<< HEAD
   var mainNav = $('ul.main-navigation, ul[role=main-navigation]').before('<fieldset class="mobile-nav">');
+=======
+  var mainNav = $('ul.main-navigation, ul[role=main-navigation]').before('<fieldset class="mobile-nav">')
+>>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb
   var mobileNav = $('fieldset.mobile-nav').append('<select>');
   mobileNav.find('select').append('<option value="">Navigate&hellip;</option>');
   var addOption = function(i, option) {
     mobileNav.find('select').append('<option value="' + this.href + '">&raquo; ' + $(this).text() + '</option>');
+<<<<<<< HEAD
   };
+=======
+  }
+>>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb
   mainNav.find('a').each(addOption);
   $('ul.subscription a').each(addOption);
   mobileNav.find('select').bind('change', function(event) {
@@ -90,10 +98,26 @@ function flashVideoFallback(){
 function wrapFlashVideos() {
   $('object').each(function(i, object) {
     if( $(object).find('param[name=movie]').length ){
+<<<<<<< HEAD
       $(object).wrap('<div class="flash-video">');
     }
   });
   $('iframe[src*=vimeo],iframe[src*=youtube]').wrap('<div class="flash-video">');
+=======
+      $(object).wrap('<div class="flash-video">')
+    }
+  });
+  $('iframe[src*=vimeo],iframe[src*=youtube]').wrap('<div class="flash-video">')
+}
+
+function renderDeliciousLinks(items) {
+  var output = "<ul>";
+  for (var i=0,l=items.length; i<l; i++) {
+    output += '<li><a href="' + items[i].u + '" title="Tags: ' + (items[i].t == "" ? "" : items[i].t.join(', ')) + '">' + items[i].d + '</a></li>';
+  }
+  output += "</ul>";
+  $('#delicious').html(output);
+>>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb
 }
 
 $('document').ready(function() {

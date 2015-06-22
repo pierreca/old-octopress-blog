@@ -54,7 +54,11 @@ function linkifyTweet(text, url) {
       text = text.replace(shortUrl, ">"+url[u].display_url);
     }
   }
+<<<<<<< HEAD
   return text;
+=======
+  return text
+>>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb
 }
 
 function showTwitterFeed(tweets, twitter_user) {
@@ -74,5 +78,9 @@ function getTwitterFeed(user, count, replies) {
     , type: 'jsonp'
     , error: function (err) { $('#tweets li.loading').addClass('error').text("Twitter's busted"); }
     , success: function(data) { showTwitterFeed(data.slice(0, count), user); }
+<<<<<<< HEAD
   });
+=======
+  })
+>>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb
 }

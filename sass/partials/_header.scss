@@ -4,7 +4,11 @@ body > header {
     display: inline-block;
     margin: 0;
     a, a:visited, a:hover {
+<<<<<<< HEAD
       color: $title-color;
+=======
+      color: $title_color;
+>>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb
       text-decoration: none;
     }
   }
