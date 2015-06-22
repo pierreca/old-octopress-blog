@@ -1,16 +1,7 @@
 ---
-<<<<<<< HEAD
 layout: null
 ---
 User-agent: *
 Disallow:
 
 Sitemap: {{ site.url }}/sitemap.xml
-=======
-layout: nil
----
-User-agent: *
-Disallow: 
-
-Sitemap: {{ site.url }}/sitemap.xml 
->>>>>>> 44d8b010b40606477dfd1c42989b827f0ccb30cb
