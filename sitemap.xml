@@ -1,59 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  
   <url>
     <loc>http://pierreca.github.io/blog/2014/09/02/a-simple-3d-model-of-the-intel-galileo-board/</loc>
     <lastmod>2014-09-02T00:00:03-07:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://pierreca.github.io/blog/2014/08/18/7-bad-reasons-not-to-finish-projects-with-antidotes/</loc>
     <lastmod>2014-08-18T00:10:15-07:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/</loc>
     <lastmod>2014-08-12T19:57:36-07:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/</loc>
     <lastmod>2014-08-05T22:28:37-07:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
-  
   <url>
     <loc>http://pierreca.github.io/blog/archives/</loc>
-    <lastmod>2015-02-08T01:13:35-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
-  
   <url>
     <loc>http://pierreca.github.io/</loc>
-    <lastmod>2015-02-08T01:13:35-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
-  
   <url>
     <loc>http://pierreca.github.io/about-me/</loc>
-    <lastmod>2015-02-08T01:13:35-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
-  
   <url>
     <loc>http://pierreca.github.io/projects/</loc>
-    <lastmod>2015-02-08T01:13:35-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
-  
-  
 </urlset>
