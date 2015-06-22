@@ -7,12 +7,12 @@ sharing: true
 footer: true
 ---
 
-  <table class="projects-table">
+<table class="projects-table">
     <tr>
         <th></th>
         <th>Not Started</th>
         <th>Started</th>
-        <th>Done-ish</th>
+        <th>Done</th>
     </tr>
     <tr>
         <td valign="center">
@@ -76,17 +76,14 @@ footer: true
 </table>
 
 
-<p><article>
-    <header>
-        <h1 class="entry-title">Aviation</h1>
-    </header></p>
+<h1 class="entry-title">Aviation</h1>
 
 <table class="projects-table">
     <tr>
         <th></th>
         <th>Not Started</th>
         <th>Started</th>
-        <th>Done-ish</th>
+        <th>Done</th>
     </tr>
     <tr>
         <td valign="center">
@@ -95,11 +92,10 @@ footer: true
         <td>
             <p>Complex Endorsement / PA28 Checkout</p>
             <p>IFR Rating</p>
-            <p>Spin Training</p>
+            <p>Upset and unusual attitude recovery</p>
             <p>Cirrus transition course</p>
         </td>
         <td>
-            <p>Tailwheel Endorsement</p>
         </td>
         <td>
             <p>Private Pilot License</p>
@@ -108,6 +104,8 @@ footer: true
             <p>C162 Checkout</p>
             <p>C172 Checkout</p>
             <p>C182 Checkout</p>
+            <p>Tailwheel Endorsement</p>
+            <p>Spin Training</p>
         </td>
     </tr>
     <tr>
@@ -115,7 +113,6 @@ footer: true
             <strong>Places</strong>
         </td>
         <td>
-            <p>Ranger Creek (21W)</p>
             <p>Langley (W10)</p>
             <p>Cle Elum (S93)</p>
             <p>Roche Harbor (W39)</p>
@@ -142,6 +139,16 @@ footer: true
             <p>Ocean Shores (W04)</p>
             <p>Easton (KESW)</p>
             <p>Ellensburg (KELN)</p>
+            <p>Ranger Creek (21W)</p>
+            <p>Packwood (55S)</p>
+            <p>Auburn Academy (WA84)</p>
+            <p>Astoria (KAST)</p>
+            <p>Reid-Hillview (KRHV)</p>
+            <p>Frazier Lake (1C9)</p>
+            <p>Salinas (KSNS)</p>
+            <p>Hollister (KCVH)</p>
+            <p>Columbia (O22)</p>
+            <p>Pine Mountain Lake (E45)</p>
         </td>
     </tr>
     <tr>
@@ -149,16 +156,16 @@ footer: true
             <strong>Actions</strong>
         </td>
         <td>
-            <p>Fly around Mt Rainier</p>
             <p>Fly to Canada (and back)</p>
             <p>Public Fly-In (AOPA or other)</p>
             <p>Oshkosh</p>
         </td>
         <td>
-            <p>SeaTac Transition</p>
         </td>
         <td>
             <p>RNT-BFI Stadiums Transition</p>
+            <p>Fly around Mt Rainier</p>
+            <p>SeaTac (Burien) Transition</p>
         </td>
     </tr>
     <tr>
@@ -205,14 +212,7 @@ footer: true
     </tr>
 </table>
 
-
-<p></article></p>
-
-<p><article>
-    <header>
-        <h1 class="entry-title">Reading List</h1>
-    </header></p>
-
+<h1 class="entry-title">Reading List</h1>
 <table class="projects-table">
     <tr>
         <th>Not Started</th>
@@ -221,10 +221,12 @@ footer: true
     </tr>
     <tr>
         <td>
+            <p>Moonwalking with Einstein (Joshua Foer)</p>
         </td>
         <td>
             <p>Lean Startup (Eric Ries)</p>
             <p>Thinking Fast and Slow (Daniel Kahneman)</p>
+            <p>The Four Steps to Epiphany (Steve Blank)</p>
         </td>
         <td>
             <p>No Place to Hide (Glenn Greenwald)</p>
@@ -236,6 +238,7 @@ footer: true
             <p>The Burning Entrepreneur (Brad Feld)</p>
             <p>Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)</p>
             <p>The Peripheral (William Gibson)</p>
+            <p>Stop the BS (Shane Mac)</p>
         </td>
     </tr>
 </table>
