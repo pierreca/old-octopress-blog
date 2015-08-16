@@ -1,0 +1,3 @@
+[submodule "source/HomeAutomation"]
+        path = HomeAutomation
+        url = https://github.com/pierreca/HomeAutomation.git
