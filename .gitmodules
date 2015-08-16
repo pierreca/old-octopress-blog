@@ -1,3 +1,6 @@
 [submodule ".themes/whitespace"]
 	path = .themes/whitespace
 	url = https://github.com/lucaslew/whitespace
+[submodule "source/HomeAutomation"]
+	path = source/HomeAutomation
+	url = https://github.com/pierreca/HomeAutomation.git
