@@ -37,12 +37,23 @@ Web
 
 Apps
 ----
-* <a href="https://github.com/pierreca/PilotTools">Pilot Tools</a>
-* <a href="https://github.com/pierreca/HomeControllerApp">HomeController App(works w/ Tyler)</a>
-* Klout Kikimeter
-* Pachube Explorer
-* Hackathon Achievements
-* Wowwee Rovio Control App
+#### <a href="https://github.com/pierreca/PilotTools">Pilot Tools</a>
+> Weather and basic flight planning for pilots.
+
+#### <a href="https://github.com/pierreca/HomeControllerApp">HomeController App </a>
+> Interfaces with my now defunct home gateway project to control WeMo switches and my Sonos.
+
+#### Klout Kikimeter
+> Quick exploration with the Klout API... more intended as a joke than anything (it's klout...)
+
+#### Pachube Explorer
+> Pachube is now Xively. this app allowed to list feeds, graph values, and find feeds around using Augmented Reality (really an excuse to play with the Windows Phone SDK)
+
+#### Hackathon Achievements
+> Social app running on Windows 8 and Windows Phone 8 used during Hackathons to give "badges" to hackathons participants. When "Gamification" sounded cool. Also a nice excuse to play with Azure Mobile Services.
+
+#### Wowwee Rovio Control App
+> the Rovio from Wowwee is a little video mobile robot. this app was built to control it and look at its video feed. My Rovio died, so did the app...
 
 
 
