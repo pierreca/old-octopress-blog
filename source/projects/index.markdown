@@ -43,17 +43,26 @@ Apps
 #### <a href="https://github.com/pierreca/HomeControllerApp">HomeController App </a>
 > Interfaces with my now defunct home gateway project to control WeMo switches and my Sonos.
 
+Deprecated/Retired
+------------------
+#### [Augmented Reality ViewFinder Toolkit (Windows Phone 7.5)](http://arvftoolkit.codeplex.com)
+> Lightweight C# toolkit to build Augmented reality view of geolocalized data with Windows Phone 7.5.
+
+#### Techdays 2010 Conference Official Application
+> The Microsoft Techdays is the largest tech conference in France, organized by Microsoft, where over 16,000 visitors converge each year to get the latest on Microsoft Developer and IT technologies.
+
 #### Klout Kikimeter
 > Quick exploration with the Klout API... more intended as a joke than anything (it's klout...)
 
 #### Pachube Explorer
 > Pachube is now Xively. this app allowed to list feeds, graph values, and find feeds around using Augmented Reality (really an excuse to play with the Windows Phone SDK)
 
+#### [Pachube Data Access Layer](http://pachubedal.codeplex.com)
+> This small .Net MicroFramework piece of code offers simplistic APIs to upload data to Pachube (now Xively).
+
 #### Hackathon Achievements
 > Social app running on Windows 8 and Windows Phone 8 used during Hackathons to give "badges" to hackathons participants. When "Gamification" sounded cool. Also a nice excuse to play with Azure Mobile Services.
 
 #### Wowwee Rovio Control App
 > the Rovio from Wowwee is a little video mobile robot. this app was built to control it and look at its video feed. My Rovio died, so did the app...
-
-
 
