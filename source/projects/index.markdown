@@ -13,6 +13,7 @@ Hardware
 * <a href="https://github.com/pierreca/Galileo">Simple 3D model of the Intel Galileo</a>
 * <a href="https://github.com/pierreca/LightClock">LightClock v2</a> (<a href="http://www.hackster.io/pierreca/lightclock">Hackster.io</a> | <a href="https://hackaday.io/project/2330-LightClock">Hackaday.io</a>)
 * <a href="https://github.com/pierreca/Tyler">Raspberry-Pi Home Gateway (codename Tyler)</a>
+* <a href="https://github.com/pierreca/Peggy2GameOfLife">Naive implementation of Conway's Game Of Life on a Peggy 2 LED Matrix</a>
 * <a href="http://blogs.msdn.com/b/pierreca/archive/2012/07/11/prototyping-a-connected-object-using-the-net-gadgeteer-the-example-of-a-steampunk-meteo-station.aspx">.NET Gadgeteer Meteo Station</a>
 * <a href="http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/">Engine Coffee Table</a>
 * <a href="http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/">A list of interesting places for makers around Seattle</a>

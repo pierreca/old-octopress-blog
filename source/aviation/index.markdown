@@ -24,22 +24,22 @@ Training/Endorsements
 Aircrafts
 ---------
 ### Checked Out
-* Cessna 162 (Checked out)
-* Cessna 172N (Checked out)
-* Cessna 172S (Checked out)
-* Cessna 182S (Checked out)
-* Citabria 7KCAB (Checked out)
+* Cessna 162
+* Cessna 172N
+* Cessna 172S
+* Cessna 182S
+* Citabria 7KCAB
 
 ### Flown with CFI
 * Citabria 7GCBC
 * Husky AA-1B
 * American Champion Scout (Floats)
 * Cirrus SR20
+* PA-11S Cub Special
 
 ### Right Seat (passenger)
 * Cirrus SR22T
 * Bonanza A36
-* Socata TB20 Trinidad
 
 Airports
 --------
